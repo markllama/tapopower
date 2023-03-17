@@ -1,0 +1,79 @@
+{
+  "error_code": 0,
+  "result": {
+    "deviceList": [
+      {
+        "deviceType": "SMART.TAPOPLUG",
+        "role": 0,
+        "fwVer": "1.0.5 Build 220623 Rel.102519",
+        "appServerUrl": "https://use1-wap.tplinkcloud.com",
+        "deviceRegion": "us-east-1",
+        "deviceId": "80229363EB68B6E79EA8CDF6F488DD502055BAFD",
+        "deviceName": "P125",
+        "deviceHwVer": "1.0",
+        "alias": "dHVubmVsLXBvd2Vy",
+        "deviceMac": "1C61B4CDBEF1",
+        "oemId": "723E75B681C8A66EBD951753508C64EB",
+        "deviceModel": "P125(US)",
+        "hwId": "BABCCC08F009BC87804BA00211733975",
+        "fwId": "00000000000000000000000000000000",
+        "isSameRegion": false,
+        "status": 0
+      },
+      {
+        "deviceType": "IOT.SMARTPLUGSWITCH",
+        "role": 0,
+        "fwVer": "1.0.12 Build 220121 Rel.175814",
+        "appServerUrl": "https://use1-wap.tplinkcloud.com",
+        "deviceRegion": "us-east-1",
+        "deviceId": "8006D347AEC6FE67BF22B410ACECAB6F1FCEA195",
+        "deviceName": "Smart Wi-Fi Power Strip",
+        "deviceHwVer": "2.0",
+        "alias": "net-power",
+        "deviceMac": "54AF97F44945",
+        "oemId": "32BD0B21AA9BF8E84737D1DB1C66E883",
+        "deviceModel": "HS300(US)",
+        "hwId": "955F433CBA24823A248A59AA64571A73",
+        "fwId": "00000000000000000000000000000000",
+        "isSameRegion": false,
+        "status": 0
+      },
+      {
+        "deviceType": "IOT.SMARTPLUGSWITCH",
+        "role": 0,
+        "fwVer": "1.0.12 Build 220121 Rel.175814",
+        "appServerUrl": "https://use1-wap.tplinkcloud.com",
+        "deviceRegion": "us-east-1",
+        "deviceId": "80068BA668FA47354407250430FD5BC01FCE4E6D",
+        "deviceName": "Smart Wi-Fi Power Strip",
+        "deviceHwVer": "2.0",
+        "alias": "pi-power",
+        "deviceMac": "54AF97F44874",
+        "oemId": "32BD0B21AA9BF8E84737D1DB1C66E883",
+        "deviceModel": "HS300(US)",
+        "hwId": "955F433CBA24823A248A59AA64571A73",
+        "fwId": "00000000000000000000000000000000",
+        "isSameRegion": false,
+        "status": 0
+      },
+      {
+        "deviceType": "SMART.TAPOPLUG",
+        "role": 0,
+        "fwVer": "1.0.5 Build 220623 Rel.102519",
+        "appServerUrl": "https://use1-wap.tplinkcloud.com",
+        "deviceRegion": "us-east-1",
+        "deviceId": "80220B45B1DF2D8C366AE3902561B9B92055512B",
+        "deviceName": "P125",
+        "deviceHwVer": "1.0",
+        "alias": "c29uaWMtcG93ZXI=",
+        "deviceMac": "1C61B4CDC95D",
+        "oemId": "723E75B681C8A66EBD951753508C64EB",
+        "deviceModel": "P125(US)",
+        "hwId": "BABCCC08F009BC87804BA00211733975",
+        "fwId": "00000000000000000000000000000000",
+        "isSameRegion": false,
+        "status": 0
+      }
+    ]
+  }
+}
